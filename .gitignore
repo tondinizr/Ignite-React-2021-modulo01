@@ -9,3 +9,4 @@ package-lock.json
 /dist
 
 npm-debug.log*
+dist/bundle.js
