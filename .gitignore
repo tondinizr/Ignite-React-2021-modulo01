@@ -7,6 +7,6 @@ package-lock.json
 
 /build
 /dist
+/dist/bundle.js
 
 npm-debug.log*
-dist/bundle.js
